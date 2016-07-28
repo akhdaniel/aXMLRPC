@@ -1,8 +1,7 @@
-nbproject/
-build/
-dist/
-.gradle/
-/.nb-gradle/private/
-target
-.classpath
-.project
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
